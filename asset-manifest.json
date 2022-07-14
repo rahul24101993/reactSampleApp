@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactSampleApp/static/js/main.c30bbc49.js",
+    "index.html": "/reactSampleApp/index.html",
+    "main.c30bbc49.js.map": "/reactSampleApp/static/js/main.c30bbc49.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c30bbc49.js"
+  ]
+}
